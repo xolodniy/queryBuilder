@@ -1,4 +1,4 @@
-module queryBuilder
+module github.com/xolodniy/queryBuilder
 
 go 1.17
 
